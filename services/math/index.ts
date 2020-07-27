@@ -4,7 +4,7 @@ import { subtract } from "./subtract.ts";
 
 const server = serve({ port: 9876 });
 
-export const mathService = {
+const service = {
   add,
   subtract,
 };
@@ -12,5 +12,5 @@ export const mathService = {
 console.log("RPC server starting at :9876");
 
 for await (const req of server) {
-  await respondRpc(req, mathService);
+  await respondRpc(req, service);
 }
