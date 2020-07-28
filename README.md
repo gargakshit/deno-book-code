@@ -7,3 +7,4 @@ Currently included ones are
 - [Basic Routing](https://github.com/gargakshit/deno-book-code/tree/basic-routing)
 - [Advanced Routing](https://github.com/gargakshit/deno-book-code/tree/advanced-routing)
 - [Microservices 1](https://github.com/gargakshit/deno-book-code/tree/microservices-1)
+- [Microservices 2](https://github.com/gargakshit/deno-book-code/tree/microservices-2)
