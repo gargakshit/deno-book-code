@@ -1,3 +1,3 @@
-### Basic Routing
+### Middleware
 
-This is the code for `Basic Routing` section of the deno-book.
+This is the code for `Middleware` section of the deno-book.
